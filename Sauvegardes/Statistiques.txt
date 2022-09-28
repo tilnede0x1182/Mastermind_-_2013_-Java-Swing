@@ -1,0 +1,6 @@
+stats[0] = Ordinateur:4:6:4:3:50:0:0:30/09/2017 00 h 06 min 20 s:,
+stats[1] = Ordinateur:4:6:4:2:12:0:0:30/09/2017 00 h 14 min 21 s:,
+stats[2] = Ordinateur:4:6:4:2:20:0:0:06/10/2017 02 h 50 min 18 s:,
+stats[3] = Ordinateur:4:6:4:2:19:0:0:11/12/2017 18 h 43 min 27 s:,
+stats[4] = Ordinateur:4:6:4:2:20:0:0:11/12/2017 20 h 28 min 11 s:,
+

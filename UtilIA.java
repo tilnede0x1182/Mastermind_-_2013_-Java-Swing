@@ -1,0 +1,5 @@
+class UtilIA {
+	public UtilIA () {
+
+	}
+}

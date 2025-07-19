@@ -1,10 +1,12 @@
-# Mastermind Java
-____
+# Mastermind en Java
 
-Attention :
+---
 
-Ce projet a un but purement éducatif et de portefolio, et n'a aucun lien avec le célèbre jeu Mastermind, hormis une forte inspiration.
-____
+**Avertissement :**
+Ce projet est réalisé à des fins **strictement éducatives et de présentation personnelle** (portfolio).
+Il s’inspire librement du jeu de logique connu sous le nom de **Mastermind**, mais **n'entretient aucun lien avec la marque déposée** appartenant à Hasbro ou toute autre entité.
+
+---
 
 ## Description du projet
 

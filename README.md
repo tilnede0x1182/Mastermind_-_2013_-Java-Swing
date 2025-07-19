@@ -1,6 +1,6 @@
 # Mastermind Java
 
-## Description du projet (10 phrases)
+## Description du projet
 Ce projet implémente une version Java du jeu Mastermind avec interface Swing, offrant une expérience graphique et interactive.
 L’utilisateur peut choisir le rôle de **codeur** ou de **décodeur**, ou affronter une IA configurable selon trois niveaux de difficulté.
 Le jeu supporte des configurations avancées : nombre de cases (4 à 8), jusqu’à **16 couleurs**, et nombre de coups limité ou illimité.

@@ -10,7 +10,7 @@ Trois modes de jeu adaptent la présentation des indices : du plus explicite (em
 Trois niveaux d’IA mettent en œuvre des algorithmes croissants en complexité : de l’aléatoire simple à une stratégie par minimax et entropie.
 Un système de fichiers organise automatiquement les sauvegardes dans des répertoires nommés et numérotés.
 Le code est structuré en plusieurs classes : UI (fenêtres, panels), IA (facile, moyen, difficile), utilitaires (fichiers, dates, chaînes).
-L’ensemble est packagé dans un JAR exécutable.
+L’ensemble est packagé dans un JAR exécutable, prêt à être déployé en application standalone.
 
 ## Technologies utilisées
 - **Java SE 8** (JDK 1.8)

@@ -1,4 +1,4 @@
-# Mastermind Java – README
+# Mastermind Java
 
 ## Description du projet (10 phrases)
 Ce projet implémente une version Java du jeu Mastermind avec interface Swing, offrant une expérience graphique et interactive.
